@@ -12,7 +12,7 @@ img{
 p{width: 600px;}
 ol{width: 600px;}
 
-h1,h2,h3,.section{
+h1,h2,h3,.section,p{
     display: flex;
     justify-content: center;
     align-items: center;
